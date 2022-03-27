@@ -242,7 +242,7 @@ vcr2	Bandito	1	Y	Y	Y	Y	Y	Y	N	N	N	smallplanes
 doc2	Walton	1	Y	Y	Y	Y	Y	N	N	N	N	smallplanes				
 heist1	Washing	2	Y	Y	N	Y	N	N	N	N	N					
 heist3	Club	1	Y	Y	Y	Y	N	N	N	N	N					
-heist2	Nevada	1	Y	N	N	Y	Y	Y	N	N	N	norc+nohovercraft				
+heist2	Nevada	1	N	N	N	Y	Y	Y	N	N	N	smallplanes+norc				
 heist4	Polmav	1	Y	N	N	N	Y	Y	Y	Y	Y					
 heist4	Packer	1	Y	Y	Y	Y	Y	Y	N	N	N	notank+smallplanes				
 heist4	Copbike	1	Y	Y	Y	Y	Y	Y	N	N	N	smallplanes				
