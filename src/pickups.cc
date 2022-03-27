@@ -108,7 +108,7 @@ ShouldRandomize (char pickupType, int model)
         case PICKUP_COLLECTABLE1:
         case PICKUP_ON_STREET_SLOW:
         case PICKUP_ASSET_REVENUE:
-        case PICKUP_PROPERTY_FORSALE:
+        /* case PICKUP_PROPERTY_FORSALE: */
         case PICKUP_SNAPSHOT:
             return true;
         }
